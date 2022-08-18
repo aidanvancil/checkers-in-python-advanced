@@ -6,3 +6,5 @@ Checkers is a classic board game for two players. One player has the dark pieces
 
 ### Extra
 This game includes sensory + auditorial messages + background music. Piece movement audio is triggered upon capturing a specific piece. Background music is looped indefinitely throughout the play period.
+
+### Co-authored-by: Zak Buffington <buffingtonzr@gmail.com>, Jacob Krebs <Jjkrebs1@dmacc.edu>
